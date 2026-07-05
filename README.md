@@ -1,5 +1,5 @@
 <!-- ============ HERO BANNER ============ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kirthikesh%20Parthasarathy&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20AWS%20%26%20Azure%20%7C%20CI%2FCD%20%2F%20IaC%20%2F%20SRE&descAlignY=62&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kirthikesh%20Parthasarathy&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%7C%20AWS%20%26%20Azure%20%7C%20CI%2FCD%20%2F%20IaC%20%2F%20SRE&descAlignY=62&descSize=16" />
 
 <!-- ============ TYPING HEADER ============ -->
 <div align="center">
